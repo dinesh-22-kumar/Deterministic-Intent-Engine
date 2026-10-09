@@ -1,0 +1,12 @@
+# Compiled binaries
+bin/
+*.class
+*.jar
+
+# Runtime State & Logs
+*.wal
+
+# VS Code & OS artifacts
+.vscode/
+.DS_Store
+Thumbs.db
